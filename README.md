@@ -20,4 +20,5 @@ Statistical mastery of data analysis including basic data visualization, statist
 
 ### Instructor
 - Mine Çetinkaya-Rundel
-- Duke University
+- Duke University, Professor of the Practice
+- Department of Statistical Science
