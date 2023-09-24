@@ -17,6 +17,10 @@ Statistical mastery of data analysis including basic data visualization, statist
 6. General Statistics
 7. Data Visualization (DataViz)
 8. Linear Regression
+9. Statistical Inference
+10. Statistical Hypothesis Testing
+11. Rstudio
+12. Exploratory Data Analysis
 
 ### Instructor
 - Mine Çetinkaya-Rundel
